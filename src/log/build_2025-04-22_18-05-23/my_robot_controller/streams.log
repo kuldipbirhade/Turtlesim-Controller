@@ -1,0 +1,43 @@
+[0.332s] Invoking command in '/home/kuldip/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/kuldip/ros2_ws/src/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /home/kuldip/ros2_ws/src/build/my_robot_controller/build install --record /home/kuldip/ros2_ws/src/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[0.459s] running egg_info
+[0.459s] creating ../build/my_robot_controller/my_robot_controller.egg-info
+[0.459s] writing ../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.460s] writing dependency_links to ../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.460s] writing entry points to ../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.460s] writing requirements to ../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.460s] writing top-level names to ../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.460s] writing manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.461s] reading manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.461s] writing manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.461s] running build
+[0.461s] running build_py
+[0.461s] creating /home/kuldip/ros2_ws/src/build/my_robot_controller/build
+[0.462s] creating /home/kuldip/ros2_ws/src/build/my_robot_controller/build/lib
+[0.462s] creating /home/kuldip/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller
+[0.462s] copying my_robot_controller/draw_circle.py -> /home/kuldip/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller
+[0.462s] copying my_robot_controller/pose_subscriber.py -> /home/kuldip/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller
+[0.462s] copying my_robot_controller/my_node.py -> /home/kuldip/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller
+[0.462s] copying my_robot_controller/__init__.py -> /home/kuldip/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller
+[0.462s] running install
+[0.462s] running install_lib
+[0.462s] creating /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.462s] copying /home/kuldip/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller/draw_circle.py -> /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.462s] copying /home/kuldip/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller/pose_subscriber.py -> /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.462s] copying /home/kuldip/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller/my_node.py -> /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.462s] copying /home/kuldip/ros2_ws/src/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.463s] byte-compiling /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/draw_circle.py to draw_circle.cpython-310.pyc
+[0.463s] byte-compiling /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/pose_subscriber.py to pose_subscriber.cpython-310.pyc
+[0.463s] byte-compiling /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/my_node.py to my_node.cpython-310.pyc
+[0.463s] byte-compiling /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.463s] running install_data
+[0.463s] creating /home/kuldip/ros2_ws/src/install/my_robot_controller/share/ament_index
+[0.463s] creating /home/kuldip/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index
+[0.463s] creating /home/kuldip/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.463s] copying resource/my_robot_controller -> /home/kuldip/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.464s] copying package.xml -> /home/kuldip/ros2_ws/src/install/my_robot_controller/share/my_robot_controller
+[0.464s] running install_egg_info
+[0.466s] Copying ../build/my_robot_controller/my_robot_controller.egg-info to /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.466s] running install_scripts
+[0.479s] Installing test_node script to /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.479s] writing list of installed files to '/home/kuldip/ros2_ws/src/build/my_robot_controller/install.log'
+[0.498s] Invoked command in '/home/kuldip/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/kuldip/ros2_ws/src/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /home/kuldip/ros2_ws/src/build/my_robot_controller/build install --record /home/kuldip/ros2_ws/src/build/my_robot_controller/install.log --single-version-externally-managed install_data

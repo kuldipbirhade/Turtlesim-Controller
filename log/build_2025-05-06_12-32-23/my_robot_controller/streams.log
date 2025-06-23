@@ -1,0 +1,27 @@
+[0.325s] Invoking command in '/home/kuldip/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/kuldip/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kuldip/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/kuldip/ros2_ws/build/my_robot_controller/build install --record /home/kuldip/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[0.450s] running egg_info
+[0.450s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.450s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.450s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.450s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.451s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.451s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.452s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.452s] running build
+[0.452s] running build_py
+[0.452s] copying my_robot_controller/draw_circle.py -> /home/kuldip/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.452s] running install
+[0.452s] running install_lib
+[0.452s] copying /home/kuldip/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/draw_circle.py -> /home/kuldip/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.453s] byte-compiling /home/kuldip/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/draw_circle.py to draw_circle.cpython-310.pyc
+[0.453s] running install_data
+[0.453s] running install_egg_info
+[0.454s] removing '/home/kuldip/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.454s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/kuldip/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.455s] running install_scripts
+[0.467s] Installing draw_circle script to /home/kuldip/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.467s] Installing pose_subscriber script to /home/kuldip/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.468s] Installing test_node script to /home/kuldip/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.468s] Installing turtle_controller script to /home/kuldip/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.468s] writing list of installed files to '/home/kuldip/ros2_ws/build/my_robot_controller/install.log'
+[0.482s] Invoked command in '/home/kuldip/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/kuldip/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kuldip/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/kuldip/ros2_ws/build/my_robot_controller/build install --record /home/kuldip/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data

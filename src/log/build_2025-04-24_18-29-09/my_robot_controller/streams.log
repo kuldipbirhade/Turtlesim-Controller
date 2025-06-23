@@ -1,0 +1,19 @@
+[0.348s] Invoking command in '/home/kuldip/ros2_ws/src/build/my_robot_controller': PYTHONPATH=/home/kuldip/ros2_ws/src/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kuldip/ros2_ws/src/build/my_robot_controller/build --no-deps symlink_data --force
+[0.496s] running develop
+[0.579s] running egg_info
+[0.579s] writing my_robot_controller.egg-info/PKG-INFO
+[0.579s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.579s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.579s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.579s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.581s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.581s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.582s] running build_ext
+[0.582s] Creating /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.583s] Installing test_node script to /home/kuldip/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.583s] 
+[0.583s] Installed /home/kuldip/ros2_ws/src/build/my_robot_controller
+[0.583s] running symlink_data
+[0.583s] symbolically linking /home/kuldip/ros2_ws/src/build/my_robot_controller/resource/my_robot_controller -> /home/kuldip/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.583s] symbolically linking /home/kuldip/ros2_ws/src/build/my_robot_controller/package.xml -> /home/kuldip/ros2_ws/src/install/my_robot_controller/share/my_robot_controller
+[0.603s] Invoked command in '/home/kuldip/ros2_ws/src/build/my_robot_controller' returned '0': PYTHONPATH=/home/kuldip/ros2_ws/src/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kuldip/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kuldip/ros2_ws/src/build/my_robot_controller/build --no-deps symlink_data --force
